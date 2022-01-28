@@ -1,5 +1,5 @@
 import py_compile
-from mylib import pos_neg
+from mylib import pos_neg, name_match
 import sys, getopt
 
 #!usr/bin/python
@@ -19,6 +19,7 @@ def main(argv):
             inputfile = arg
     print('The input file is ' + inputfile)
 
+# 1st module - pos_neg
     # first def
     output_del_line = inputfile.split('.')[0] + "_del_lin.txt"
     pos_neg.delete_lines(inputfile, output_del_line)
@@ -39,6 +40,11 @@ def main(argv):
     # fiveth def
     output_pos_neg = output_fil.split(".")[0] + "_pos_neg.csv"
     pos_neg.pos_neg(output_fil,output_pos_neg)
+
+# 2nd module - name_match.py, 1st def
+    in_full_fname = "full_name.csv"
+    output_ful_name = output_pos_neg.split(".")[0] + "_fulname.csv"
+    name_match.name_match(output_pos_neg, in_full_fname, output_ful_name)
 
 if __name__ == "__main__":
     main(sys.argv[1:])
