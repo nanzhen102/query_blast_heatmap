@@ -65,7 +65,7 @@ if __name__ == "__main__":
     base_dir_name = "output_result"
 
     # move output files into another folder
-    while find_new_dir_name:
+    while find_new_dir_name: # default to be true
         try:
             if dir_ending_num > 0:
                 new_dir_name = base_dir_name + '_0' + str(dir_ending_num)
