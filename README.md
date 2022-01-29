@@ -8,16 +8,17 @@ Written by Nanzhen and Eden.
 ## Usage
 Query_Blast is used to perform query blast and turn the output file into a proportion csv file.
 ``` python
-> python main.py -i <txt_file_name>
+$ python main.py -i <txt_file_name>
 ```
 
 
 ## Files
  `full_name_Jan28_2022.csv`
+
  The file includes 337 type strains as well as the latest *Furfurilactobacillus* and *Weissella* strains.
 
 
-
+---
 - [ ] match gene names - column
 - [ ] combine bash scripts
 - [ ] combine R script
