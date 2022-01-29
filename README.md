@@ -23,6 +23,7 @@ python main.py -i <txt_file_name>
 - [ ] combine bash scripts
 - [ ] combine R script
 - [ ] FileExistsError: [Errno 17] File exists: 'output_result'
+- [ ] add variables for the cutoffs of csv filtering
 
 Done:
 - [ ] move output files into a new data folder
