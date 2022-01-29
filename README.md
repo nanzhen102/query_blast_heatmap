@@ -2,7 +2,14 @@
 
 Written by Nanzhen and Eden.
 
-#### Usage
+### Depandencies
+- Python3 version >= 3.6.7
+
+### Usage
+Query_Blast is used to perform query blast and turn the output file into a proportion csv file.
+``` python
+> python main.py -i <input_file_name>
+```
 
 
 #### `full_name_Jan28_2022.csv`
