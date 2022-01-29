@@ -17,7 +17,8 @@ def main(argv):
             sys.exit()
         elif opt in ("-i", "--ifile"): # run the py script
             inputfile = arg
-    print('The input file is ' + inputfile)
+    print('The input file is ' + inputfile\
+        "The default cutoff for query blast is 75 cov and 50 aa.")
 
 # 1st module - pos_neg
     # first def
