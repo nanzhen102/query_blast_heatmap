@@ -1,6 +1,6 @@
 # Query_Blast: package for query blast and the following analysis 
 
-Written by Nanzhen and Eden
+Written by Nanzhen and Eden.
 
 #### Usage
 
