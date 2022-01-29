@@ -7,7 +7,9 @@ def name_match(input_partial_fname, input_full_fname, output_fname):
 
     part_df_row_num, part_df_col_num = input_partial_df.shape # rows - columns 
     ful_df_row_num, ful_df_col_num = input_full_df.shape # rows - columns 
-    input_partial_df.insert(loc=1, column="species", value="not_nan") # insert a column
+    input_partial_df.insert(loc=1, column="species", value="not_nan") # insert a column - to write the matched species name
+    input_partial_df.insert(loc=2, column="sum_up", value=1) # insert a column - to calculate the proportion
+
 
     if pd.isna(input_partial_df.iloc[0,0]) == True: # in pos_neg csv, the first column of the first row is nan, thus need to fill a value
         input_partial_df.iloc[0,0] = "not_nan"

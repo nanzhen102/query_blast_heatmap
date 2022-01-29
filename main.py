@@ -1,5 +1,5 @@
 import py_compile
-from mylib import pos_neg, name_match
+from mylib import pos_neg, species_name_match, prop_calcu
 import sys, getopt
 
 #!usr/bin/python
@@ -44,7 +44,17 @@ def main(argv):
 # 2nd module - name_match.py, 1st def
     in_full_fname = "full_name.csv"
     output_ful_name = output_pos_neg.split(".")[0] + "_fulname.csv"
-    name_match.name_match(output_pos_neg, in_full_fname, output_ful_name)
+    species_name_match.name_match(output_pos_neg, in_full_fname, output_ful_name)
+
+# 3rd module - prop_calcu.py, 1st def
+    output_grouped = output_ful_name.split(".")[0] + "_grouped.csv"
+    prop_calcu.group(output_ful_name, output_grouped)
+
+# 3rd module - prop_calcu.py, 2nd def
+    output_cal = output_grouped.split(".")[0] + "_cal.csv"
+    prop_calcu.calcu(output_grouped, output_cal)
+    
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])
