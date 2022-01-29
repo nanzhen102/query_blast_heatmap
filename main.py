@@ -55,7 +55,6 @@ def main(argv):
     prop_calcu.calcu(output_grouped, output_cal)
     
 
-
 if __name__ == "__main__":
     main(sys.argv[1:])
 
