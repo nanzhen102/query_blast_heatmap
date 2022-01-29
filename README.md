@@ -19,12 +19,14 @@ python main.py -i <txt_file_name>
 
 
 ---
-- [ ] match gene names - column
 - [ ] combine bash scripts
 - [ ] combine R script
-- [ ] FileExistsError: [Errno 17] File exists: 'output_result'
 - [ ] add variables for the cutoffs of csv filtering
 
 Done:
 - [ ] move output files into a new data folder
 - [ ] update full_name.csv to full_name_Jan28_2022.csv
+- [ ] match gene names - column
+- [ ] FileExistsError: [Errno 17] File exists: 'output_result'
+
+

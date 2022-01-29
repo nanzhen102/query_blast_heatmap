@@ -1,5 +1,5 @@
 import py_compile
-from mylib import pos_neg, species_name_match, prop_calcu
+from mylib import pos_neg, species_gene_match, prop_calcu
 import sys, getopt, os, shutil
 
 #!usr/bin/python
@@ -43,8 +43,9 @@ def main(argv):
 
 # 2nd module - name_match.py, 1st def
     in_full_fname = "full_name_Jan28_2022.csv"
+    in_gene_fname = "query_info.csv"
     output_ful_name = output_pos_neg.split(".")[0] + "_fulname.csv"
-    species_name_match.name_match(output_pos_neg, in_full_fname, output_ful_name)
+    species_gene_match.name_match(output_pos_neg, in_full_fname, in_gene_fname, output_ful_name)
 
 # 3rd module - prop_calcu.py, 1st def
     output_grouped = output_ful_name.split(".")[0] + "_grouped.csv"
@@ -57,13 +58,29 @@ def main(argv):
 if __name__ == "__main__":
     main(sys.argv[1:])
 
+## edited by Eden##
+    find_new_dir_name = True
+    dir_ending_num = 0
 
-# move output files into another folder
-os.mkdir("output_result")
-source_path = './'
-dest_path = './output_result'
+    base_dir_name = "output_result"
 
-files = os.listdir(source_path) # get all file names
-for f in files:
-	if f.startswith('all_prot_query_'):
-		shutil.move(f, dest_path)
+    # move output files into another folder
+    while find_new_dir_name:
+        try:
+            if dir_ending_num > 0:
+                new_dir_name = base_dir_name + '_0' + str(dir_ending_num)
+            else:
+                new_dir_name = base_dir_name
+            os.mkdir(new_dir_name)
+            find_new_dir_name = False
+        except FileExistsError:
+            dir_ending_num += 1
+
+    source_path = './'
+    dest_path = './{}'.format(new_dir_name)
+
+    files = os.listdir(source_path) # get all file names
+    for f in files:
+        if f.startswith('all_prot_query_'):
+            shutil.move(f, dest_path)
+    print("Saved to the ./{} folder!".format(new_dir_name))
