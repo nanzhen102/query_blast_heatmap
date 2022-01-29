@@ -162,7 +162,7 @@ JQCL00000000,Lactiplantibacillus xiangfangensis,JQCL00000000
 LFEE00000000,Lactiplantibacillus herbarum,LFEE00000000
 AZCU00000000,Lactiplantibacillus pentosus,AZCU00000000
 AZEO00000000,Lactiplantibacillus paraplantarum,AZEO00000000
-AZFR01000007,nan,AZFR01000007
+AZFR01000007,Lactiplantibacillus argentoratensis,AZFR01000007
 AZEJ00000000,Lactiplantibacillus plantarum ,AZEJ00000000 Lactiplantibacillus plantarum plantarum (HOMO)
 JQBD00000000,Pediococcus damnosus ,JQBD00000000 Pediococcus damnosus
 JQBC00000000,Pediococcus inopinatus ,JQBC00000000 Pediococcus inopinatus 
@@ -343,8 +343,8 @@ NZ_JAFBEO000000000.1,Weissella uvarum,
 GCF_013394005.1,Furfurilactobacillus rossiae,
 GCA_000277855.1,Furfurilactobacillus rossiae,
 JAIWJE000000000,Furfurilactobacillus rossiae,
-GCF_009863985.1,Furfurilactobacillus milium,
-GCF_009864005.1,Furfurilactobacillus milium,
+GCA_009863985.1,Furfurilactobacillus milium,
+GCA_009864005.1,Furfurilactobacillus milium,
 JAIWJH000000000,Furfurilactobacillus milium,
 JAIWJG000000000,Furfurilactobacillus milium,
 JAIWJF000000000,Furfurilactobacillus milium,

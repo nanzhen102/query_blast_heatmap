@@ -127,7 +127,7 @@
 126,RHOQ00000000,Companilactobacillus baiquanensis,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
 127,JQCL00000000,Lactiplantibacillus xiangfangensis,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0
 128,AZDQ00000000,Companilactobacillus alimentarius,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
-129,AZFR01000007,,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+129,AZFR01000007,Lactiplantibacillus argentoratensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
 130,AZEJ00000000,Lactiplantibacillus plantarum ,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
 131,RHOW00000000,Lapidilactobacillus mulanensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
 132,AYYK00000000,Lapidilactobacillus dextrinicus,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0
@@ -228,7 +228,7 @@
 227,BBJM00000000,Secundilactobacillus oryzae,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
 228,AYZM00000000,Secundilactobacillus similis,1,0,1,1,0,1,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0
 229,AYYR00000000,Secundilactobacillus collinoides,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0
-230,GCA_009864005.1,not_nan,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+230,GCA_009864005.1,Furfurilactobacillus milium,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
 231,GCA_000277855.1,Furfurilactobacillus rossiae,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
 232,AZFF00000000,Furfurilactobacillus rossiae,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
 233,JAIWJE000000000,Furfurilactobacillus rossiae,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
@@ -291,7 +291,7 @@
 290,BJEB00000000,Paucilactobacillus nenjiangensis,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
 291,BJDM00000000,Paucilactobacillus kaifaensis,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
 292,AZFE00000000,Paucilactobacillus oligofermentans,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
-293,GCA_009863985.1,not_nan,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+293,GCA_009863985.1,Furfurilactobacillus milium,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
 294,JQCB00000000,Furfurilactobacillus siliginis,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
 295,GCF_007989765.1,Furfurilactobacillus siliginis,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
 296,GCA_001437435.1,Furfurilactobacillus siliginis,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
