@@ -1,4 +1,4 @@
-# query_blast
+# Query_Blast
 
 #### Usage
 
