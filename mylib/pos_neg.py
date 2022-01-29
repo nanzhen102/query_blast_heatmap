@@ -33,7 +33,7 @@ def header_add(input_fname,output_fname):
 def data_filter(input_fname, output_fname):
     input_file = pd.DataFrame(pd.read_csv(input_fname, header = 0))
 
-    mask=((input_file["identity"]>=50) & (input_file["query coverage"]>= 75))
+    mask=((input_file["identity"]>=20) & (input_file["query coverage"]>= 20))
     input_file=input_file.loc[mask] 
 
     input_file.to_csv(output_fname, index = False) 
