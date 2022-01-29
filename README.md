@@ -7,8 +7,8 @@ Written by Nanzhen and Eden.
 
 ## Usage
 Query_Blast is used to perform query blast and turn the output file into a proportion csv file.
-``` python
-$ python main.py -i <txt_file_name>
+``` bash
+python main.py -i <txt_file_name>
 ```
 
 
