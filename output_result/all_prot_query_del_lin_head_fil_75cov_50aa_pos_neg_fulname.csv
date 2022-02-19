@@ -1,16 +1,5 @@
-0,not_nan,not_nan,1,CheY_P_phosphatase_CheC,Flagellar_biosynthetic_protein_FliP,Multidrug_resistance_protein_MdtL,Ribose_import_ATP_binding_protein_RbsA,Ribose_import_permease_protein_RbsC
-1,W.ghanensis_LMG_24286,Liquoricoccoides ghanensis,1,1,1,0,0,0
-2,W.fabaria_LMG_24289,Liquoricoccoides fabaria,1,1,1,0,1,1
-3,JAAXPN000000000,Liquoricoccoides fabalis,1,1,1,0,1,1
-4,NZ_JAFBDN000000000.1,Liquoricoccoides beninensis,1,1,1,0,1,1
-5,GCF_007989765.1,Furfurilactobacillus siliginis,1,0,0,1,0,0
-6,GCA_001437435.1,Furfurilactobacillus siliginis,1,0,0,1,0,0
-7,SDGZ00000000,Weissella muntiaci ,1,0,0,1,0,0
-8,BAWR00000000,Weissella oryzae ,1,0,0,1,0,0
-9,JQBP00000000,Weissella kandleri,1,0,0,1,0,0
-10,CP037940,Liquoricoccoides cryptocerci,1,0,0,0,1,1
-11,JAIWJF000000000,Furfurilactobacillus milium,1,0,0,0,1,1
-12,GCA_000277855.1,Furfurilactobacillus rossiae,1,0,0,0,1,1
-13,GCA_009864005.1,Furfurilactobacillus milium,1,0,0,0,1,1
-14,JAIWJE000000000,Furfurilactobacillus rossiae,1,0,0,0,1,1
-15,GCF_013394005.1,Furfurilactobacillus rossiae,1,0,0,0,1,1
+0,not_nan,not_nan,1,AFJ79554.1
+1,Lp_plantarum_WCFS1_complete_genome,not_nan,1,1
+2,Z3_no_descri,not_nan,1,1
+3,Z1_no_descri,not_nan,1,1
+4,D6_no_descri,not_nan,1,1
