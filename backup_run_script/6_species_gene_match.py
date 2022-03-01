@@ -1,10 +1,17 @@
-# based on strain name match script, this script can be used to match gene names (replace the ACC #)
+# -*- coding: utf-8 -*-
+
 import pandas as pd
 from re import search
 
-input_partial_df = pd.read_csv("all_prot_query_del_lin_head_fil_75cov_50aa_pos_neg.csv" , header=None, index_col = False) # open pos_neg csv file
-input_full_df = pd.read_csv("full_name_Jan28_2022.csv" , header=None, index_col = False) # open file with complete (full) genome names
-input_gene_df = pd.read_csv("query_info.csv", header = 0, index_col = 0) # open query_gene.csv
+input_partial_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative.csv'
+input_full_fname = '../full_name_Jan28_2022.csv'
+input_gene_df = pd.read_csv("../query_info.csv", header = 0, index_col = 0) # open query_gene.csv
+
+output_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative_matched.csv'
+
+input_partial_df = pd.read_csv(input_partial_fname , header=None, index_col = False) # open file with incomplete names
+input_full_df = pd.read_csv(input_full_fname , header=None, index_col = False) # open file with complete (full) names
+
 
 part_df_row_num, part_df_col_num = input_partial_df.shape # rows - columns 
 ful_df_row_num, ful_df_col_num = input_full_df.shape # rows - columns 
@@ -30,4 +37,6 @@ for par_col in range(3, part_df_col_num + 2): # the first cells are Nan, which c
 		if search(ACC_target,gene_target):
 			input_partial_df.iloc[0, par_col] = input_gene_df.iloc[gene_row,1] # replace ACC with gene names
 
-input_partial_df.to_csv('matched.csv', index_label = False, header = None)
+input_partial_df.to_csv(output_fname, index_label = False, header = None)
+            
+    

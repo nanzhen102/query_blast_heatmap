@@ -1,8 +1,8 @@
 # 删除注释行，即#开始的行。且不留空行
 
-with open ("csv", "r") as input:
+with open ("all_prot_query.txt", "r") as input:
   lines = input.readlines()
-with open ("output_fname", "w") as output:
+with open ("all_prot_query_screened.txt", "w") as output:
   for line in lines:
     if '#' in line:
       line = line.replace(".", "")
