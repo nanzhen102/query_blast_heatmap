@@ -30,7 +30,7 @@ python main.py -i <txt_file_name>
     cat *.faa > all_prot.fasta # the database to blast against
     makeblastb -in all_prot.fasta -out all_prot_database -dbtype prot
     tmux new -s name # depend on the file size, can skip this step
-    blastp -db all_prot_database -query all_query.fasta -out all_query_prot.txt -outfmt "7 qacc sallacc pident qcovs evalue"
+    blastp -db all_prot_database -query all_query.fasta -out all_prot_query.txt -outfmt "7 qacc sallacc pident qcovs evalue"
 
 
     ```
