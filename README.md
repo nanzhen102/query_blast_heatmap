@@ -21,7 +21,16 @@ python main.py -i <txt_file_name>
 ---
 - [ ] combine bash scripts
     ```bash
-    
+    ssh nanzhen@129.128.131.223 # Paul's server
+
+    for f in *.fna; do prokka --kingdom Bacteria --force --outdir genomes_prokka_output --prefix ${f%.fna} --locustag ${f%.fna} $f; done # if the annotation is needed
+
+    conda activate nanzhen_blast
+    cat *.faa > all_prot.fasta # the database to blast against
+    makeblastb -in all_prot.fasta -out all_prot_database -dbtype prot
+    tmux new -s name # depend on the file size, can skip this step
+    blastp -db all_prot_database -query all_query.fasta -out all_query_prot.txt -outfmt "7 qacc sallacc pident qcovs evalue"
+
 
     ```
 - [ ] combine R script / update all R scripts
