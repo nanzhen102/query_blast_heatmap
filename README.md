@@ -20,6 +20,10 @@ python main.py -i <txt_file_name>
 
 ---
 - [ ] combine bash scripts
+    ```bash
+    
+
+    ```
 - [ ] combine R script / update all R scripts
 - [ ] add variables for the cutoffs of csv filtering
 
