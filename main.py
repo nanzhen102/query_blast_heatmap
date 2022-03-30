@@ -43,7 +43,7 @@ def main(argv):
     pos_neg.pos_neg(output_fil,output_pos_neg)
 
 # 2nd module - name_match.py, 1st def
-    in_full_fname = "full_name_Jan28_2022.csv"
+    in_full_fname = "full_name_Mar29_2022.csv"
     in_gene_fname = "query_info.csv"
     output_ful_name = output_pos_neg.split(".")[0] + "_fulname.csv"
     species_gene_match.name_match(output_pos_neg, in_full_fname, in_gene_fname, output_ful_name)
