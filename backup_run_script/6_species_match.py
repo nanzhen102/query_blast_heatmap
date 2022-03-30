@@ -3,11 +3,11 @@
 import pandas as pd
 from re import search
 
-input_partial_fname = 'all_prot_query_screened_header_50ide_50cov_positive_negative.csv'
-input_full_fname = 'full_name_Mar29_2022.csv'
+input_partial_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative.csv'
+input_full_fname = '../full_name_Mar29_2022.csv'
 # input_gene_df = pd.read_csv("../query_info.csv", header = 0, index_col = 0) # open query_gene.csv
 
-output_fname = 'all_prot_query_screened_header_50ide_50cov_positive_negative_species_matched.csv'
+output_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative_species_matched.csv'
 
 input_partial_df = pd.read_csv(input_partial_fname , header=None, index_col = False) # open file with incomplete names
 input_full_df = pd.read_csv(input_full_fname , header=None, index_col = False) # open file with complete (full) names
