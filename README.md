@@ -21,8 +21,8 @@ python main.py -i <txt_file_name>
 ---
 - [ ] combine bash scripts
     ```bash
-    ssh nanzhen@129.128.131.223 # Paul's server
-    ssh lab2-50@129.128.131.205 # lab2-50 sever
+    # Paul's server
+    # lab2-50 sever
 
     for f in *.fna; do prokka --kingdom Bacteria --force --outdir genomes_prokka_output --prefix ${f%.fna} --locustag ${f%.fna} $f; done # if the annotation is needed
 
