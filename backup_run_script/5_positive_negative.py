@@ -17,7 +17,7 @@ for line in csv_infile:
     query_list.append(query) if query not in query_list else ''
     strain_query[strain].append(query) if query not in strain_query[strain] else ''
 
-tmp_matrix = np.full((len(strain_query), len(query_list)), -1)
+tmp_matrix = np.full((len(strain_query), len(query_list)), 0) # negetive be -1 or 0
 out_data = pd.DataFrame(tmp_matrix, columns=query_list, index=list(strain_query.keys()))
 for strain in strain_query:
     for query in strain_query[strain]:
