@@ -3,7 +3,7 @@
 import pandas as pd
 from re import search
 
-input_partial_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative.csv'
+input_partial_fname = 'all_prot_query_screened_header_40ide_70cov_positive_negative.csv'
 input_full_fname = 'full_name_Apr07_2022.csv'
 # input_gene_df = pd.read_csv("../query_info.csv", header = 0, index_col = 0) # open query_gene.csv
 
