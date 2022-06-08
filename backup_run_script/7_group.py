@@ -1,6 +1,6 @@
 import pandas as pd
 
-in_df = pd.read_csv('all_prot_query_screened_header_40ide_70cov_positive_negative_species_gene_matched.csv', header = [0], index_col = 0)
+in_df = pd.read_csv('all_prot_query_screened_header_40ide_70cov_positive_negative_species_matched.csv', header = [0], index_col = 0)
 
 r_num, co_num = in_df.shape
 
