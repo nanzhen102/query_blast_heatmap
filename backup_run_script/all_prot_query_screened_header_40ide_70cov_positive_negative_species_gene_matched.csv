@@ -1,0 +1,353 @@
+0,not_nan,not_nan,1,Fructose_bisphosphate_aldolase,AguA1_agmatine_deiminase,Alcohol_dehydrogenase_2,Mannitol_dehydrogenase,Alcohol_dehydrogenase_1,Phosphofructokinase ,Glycerol_dehydratase_small_subunit_PduE,Glycerol_dehydratase_medium_subunit_PduD,Transaldolase,Galactose_1_phosphate_uridyltransferase,Mannitol_phosphate_dehydrogenase,UDP_galactose_4_epimerase,Pyruvate_formate_lyase,Phosphoketolase,Ornithine_decarboxylase,Galactose_6_phosphate_isomerase,Transketolase,Lactaldehyde_dehydrogenase,Dextransucrase,Devansucrase
+1,JQAV00000000,Lactobacillus delbrueckii subsp. bulgaricus,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+2,CP018217,Lactobacillus delbrueckii subsp. sunkii,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+3,AZCR00000000,Lactobacillus delbrueckii subsp. delbrueckii,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+4,AZDU00000000,Lactobacillus equicursoris,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+5,AZDE00000000,Lactobacillus delbrueckii subsp. lactis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+6,JQCG00000000,Lactobacillus delbrueckii subsp. jakobsenii,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+7,AZFL00000000,Lactobacillus delbrueckii subsp. indicus,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+8,AZCS00000000,Lactobacillus acidophilus,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+9,AZGN00000000,Lactobacillus intestinalis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+10,AYYU00000000,Lactobacillus jensenii,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+11,AYZN00000000,Lactobacillus pasteurii,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+12,AZGI00000000,Lactobacillus hamsteri,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+13,AYZO00000000,Lactobacillus gigeriorum,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+14,SDGL00000000,Lactobacillus mulieris,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1
+15,AZFB00000000,Lactobacillus psittaci,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+16,AZFM00000000,Lactobacillus kalixensis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+17,AZFU00000000,Lactobacillus kitasatonis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+18,AZCM00000000,Lactobacillus amylovorus,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+19,AZEK00000000,Lactobacillus helveticus,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+20,AZCW00000000,Lactobacillus crispatus,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+21,RXIA00000000,Lactobacillus xujianguonis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+22,BFBY00000000,Lactobacillus rodentium ,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+23,AZEM00000000,Lactobacillus kefiranofaciens subsp. kefirgranum,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+24,AZGG00000000,Lactobacillus kefiranofaciens subsp. kefiranofaciens,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+25,AZEL00000000,Lactobacillus gallinarum,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+26,AZFO00000000,Lactobacillus ultunensis,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+27,AZEP00000000,Lactobacillus amylolyticus,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+28,NC_008530,Lactobacillus gasseri,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1
+29,AZCY00000000,Lactobacillus johnsonii,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,1
+30,AYZG00000000,Lactobacillus taiwanensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+31,AP018549,Lactobacillus paragasseri,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+32,AYZP00000000,Lactobacillus hominis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+33,JXBY00000000,Lactobacillus kullabergensis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+34,NPNH01000000,Lactobacillus panisapium,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+35,JXLI00000000,Lactobacillus melliventris,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+36,NPNG00000000,Lactobacillus bombicola,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+37,JXLH00000000,Lactobacillus kimbladii,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+38,PDKP00000000,Lactobacillus apis,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+39,JXJR00000000,Lactobacillus helsingborgensis,1,1,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,1,0,0,0
+40,AZET00000000,Lactobacillus iners,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+41,AYZC00000000,Lactobacillus acetotolerans,1,1,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0
+42,ASM1414555,Limosilactobacillus albertensis,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+43,ASM1414545,Limosilactobacillus rudii,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1
+44,ASM17945,Limosilactobacillus reuteri subsp. murium,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+45,ASM1414561,Limosilactobacillus balticus,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1
+46,ASM16825,Limosilactobacillus reuteri subsp. rodentium,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+47,AZDD00000000,Limosilactobacillus reuteri,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+48,JGI2599185333,Limosilactobacillus reuteri subsp. porcinus,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+49,AZGM00000000,Limosilactobacillus panis,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+50,ASM1414544,Limosilactobacillus reuteri subsp. kinnaridis,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+51,ASM23645,Limosilactobacillus reuteri subsp. suis,1,1,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1
+52,OEPY00000000,Limosilactobacillus not validly described,1,1,0,1,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0
+53,AYYL00000000,Ligilactobacillus ruminis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+54,AZDK00000000,Limosilactobacillus antri,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0
+55,AYZA00000000,Ligilactobacillus aviarius,1,1,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+56,AYYZ00000000,Ligilactobacillus araffinosus,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+57,AZGD00000000,Ligilactobacillus hayakitensis,1,1,0,1,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1
+58,AZFT00000000,Ligilactobacillus apodemi,1,1,0,1,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0
+59,AYYN00000000,Ligilactobacillus murinus,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+60,AYYW00000000,Ligilactobacillus animalis,1,1,0,1,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0
+61,AYYT00000000,Ligilactobacillus salivarius,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+62,JXJQ00000000,Bombilactobacillus mellifer,1,1,0,1,0,0,1,1,1,1,0,1,1,0,1,0,0,1,0,0,0
+63,JQBZ00000000,Ligilactobacillus ceti,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+64,AZFP00000000,Ligilactobacillus saerimneri,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+65,AYYX00000000,Liquorilactobacillus vini,1,1,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+66,JXBZ00000000,Bombilactobacillus mellis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+67,AZGB00000000,Liquorilactobacillus ghanensis,1,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+68,AYYP00000000,Ligilactobacillus agilis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+69,AZFH00000000,Ligilactobacillus equi,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,1,0,0,0
+70,AZEV00000000,Liquorilactobacillus nagelii,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+71,AYZE00000000,Liquorilactobacillus cacaonum,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+72,BFFP01000000,Ligilactobacillus salitolerans,1,1,0,1,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+73,JQCF00000000,Companilactobacillus kimchiensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+74,JQCN00000000,Ligilactobacillus pobuzihii,1,1,0,1,0,1,1,1,1,0,1,0,1,1,1,1,0,0,0,0,0
+75,JQBR00000000,Pediococcus cellicola ,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+76,JQCQ00000000,Pediococcus argentinicus ,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+77,NIPR00000000,Companilactobacillus nuruki,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+78,AZDO00000000,Companilactobacillus futsaii,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+79,AYZK00000000,Lacticaseibacillus thailandensis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+80,AZFQ00000000,Liquorilactobacillus satsumensis,1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0
+81,JQBD00000000,Pediococcus damnosus ,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+82,AZDX00000000,Liquorilactobacillus hordei,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+83,AZEH00000000,Liquorilactobacillus oeni,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0
+84,CP019323,Companilactobacillus allii,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+85,CP012559,Companilactobacillus heilongjiangensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+86,AZFA00000000,Companilactobacillus versmoldensis,1,1,0,1,0,0,1,1,1,0,1,0,1,0,1,1,0,1,0,0,0
+87,RHNT00000000,Companilactobacillus furfuricola,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+88,JQBY00000000,Pediococcus ethanolidurans ,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+89,RHOO00000000,Companilactobacillus hulinensis,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+90,QWDI00000000,Companilactobacillus formosensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+91,AZFI00000000,Ligilactobacillus acidipiscis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0
+92,BJDF00000000,Companilactobacillus huachuanensis ,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+93,RHOS00000000,Companilactobacillus keshanensis,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+94,AZDR00000000,Companilactobacillus farciminis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+95,RHOP00000000,Companilactobacillus jidongensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+96,AZFV00000000,Companilactobacillus nantensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+97,RSTD00000000,Companilactobacillus metriopterae,1,1,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+98,BJWE00000000,Pediococcus parvulus ,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+99,RHOI00000000,Lacticaseibacillus baoqingensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,1,0,0
+100,RHOG00000000,Lacticaseibacillus yichunensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+101,AZEF00000000,Liquorilactobacillus capillatus,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0
+102,AZDZ00000000,Companilactobacillus nodensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+103,AYZF00000000,Liquorilactobacillus sucicola,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0
+104,RHOK00000000,Lacticaseibacillus suibinensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+105,BIFW00000000,Companilactobacillus musae,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+106,AZDB00000000,Companilactobacillus crustorum,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+107,RHOR00000000,Companilactobacillus kedongensis,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+108,AYZD00000000,Liquorilactobacillus aquaticus,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0
+109,AZFJ00000000,Lacticaseibacillus pantheris,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+110,CP031933,Companilactobacillus zhachilii,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+111,RHNS00000000,Lacticaseibacillus porcinae,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0
+112,CP012034,Companilactobacillus ginsenosidimutans,1,1,0,1,0,0,1,1,1,0,1,1,1,0,1,1,0,1,0,0,0
+113,CP049366,Companilactobacillus pabuli,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+114,RHOJ00000000,Lacticaseibacillus jixianensis,1,1,0,1,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+115,AYYH00000000,Liquorilactobacillus mali,1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0,1,0,1,0
+116,RHOM00000000,Companilactobacillus zhongbaensis,1,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+117,JQBC00000000,Pediococcus inopinatus ,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+118,AZEU00000000,Lacticaseibacillus manihotivorans,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0
+119,AZDJ00000000,Lacticaseibacillus nasuensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+120,VDFP00000000,Companilactobacillus halodurans,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+121,RKLY00000000,Companilactobacillus suantsaicola,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+122,AZEO00000000,Lactiplantibacillus paraplantarum,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,1
+123,AYZB00000000,Latilactobacillus graminis,1,1,0,1,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+124,AZEG00000000,Liquorilactobacillus uvarum,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0,1,0
+125,AZEZ00000000,Companilactobacillus mindensis,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+126,RHOQ00000000,Companilactobacillus baiquanensis,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+127,JQCL00000000,Lactiplantibacillus xiangfangensis,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0
+128,AZDQ00000000,Companilactobacillus alimentarius,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,0,0
+129,AZFR01000007,Lactiplantibacillus argentoratensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+130,AZEJ00000000,Lactiplantibacillus plantarum subsp. plantarum,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+131,RHOW00000000,Lapidilactobacillus mulanensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+132,AYYK00000000,Lapidilactobacillus dextrinicus,1,1,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+133,VDFN00000000,Companilactobacillus salsicarnum,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,1,0,0,0
+134,RHON00000000,Companilactobacillus mishanensis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,1,0,0,0
+135,AYZJ00000000,Lacticaseibacillus camelliae,1,1,0,1,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+136,AZFX00000000,Lapidilactobacillus concavus,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+137,BJEA00000000,Lactiplantibacillus modestisalitolerans,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+138,BJDZ00000000,Lactiplantibacillus plajomi,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+139,RHOL00000000,Lacticaseibacillus hegangensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+140,AZDY00000000,Companilactobacillus bobalius,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+141,AZDH00000000,Companilactobacillus kimchii,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+142,AZEX00000000,Latilactobacillus fuchuensis,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0
+143,AYGX00000000,Lactiplantibacillus fabifermentans,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0
+144,RHNU00000000,Companilactobacillus insicii,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+145,BJDL00000000,Lactiplantibacillus songbeiensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+146,BJDI00000000,Lactiplantibacillus nangangensis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+147,JQCC00000000,Pediococcus lolii ,1,1,1,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0
+148,RHOX00000000,Lapidilactobacillus bayanensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+149,AZCU00000000,Lactiplantibacillus pentosus,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+150,BJDK00000000,Lactiplantibacillus dongliensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+151,AZDL00000000,Latilactobacillus curvatus,1,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+152,AZES00000000,Companilactobacillus paralimentarius,1,1,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+153,JQAQ00000000,Pediococcus acidilactici ,1,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+154,BJDH00000000,Lactiplantibacillus daoliensis,1,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+155,BJDG00000000,Lactiplantibacillus pingfangensis,1,1,0,1,0,0,1,0,0,1,1,1,1,0,1,0,0,1,0,0,0
+156,JQBB00000000,Pediococcus claussenii ,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0
+157,BJDJ00000000,Lactiplantibacillus daowaiensis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0
+158,RHNR00000000,Lacticaseibacillus songhuajiangensis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+159,RRYD00000000,Lacticaseibacillus hulanensis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+160,AYYO00000000,Lacticaseibacillus sharpeae,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+161,JQBX00000000,Pediococcus stilesii ,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+162,AZDA00000000,Loigolactobacillus bifermentans,1,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+163,QWZQ00000000,Lactiplantibacillus garii,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1
+164,BJDY01000000,Lactiplantibacillus mudanjiangensis,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0
+165,AZFG00000000,Latilactobacillus sakei carnosus,1,1,0,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+166,AZDN00000000,Latilactobacillus sakei subsp. sakei,1,1,0,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+167,BLBG00000000,Lacticaseibacillus zhaodongensis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0
+168,RHNQ00000000,Loigolactobacillus backii,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0
+169,RHNP00000000,Loigolactobacillus iwatensis,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0
+170,AYYS00000000,Amylolactobacillus amylophilus,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+171,RHOH00000000,Lacticaseibacillus daqingensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+172,LFEE00000000,Lactiplantibacillus herbarum,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+173,RHOE00000000,Loigolactobacillus zhaoyuanensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+174,AYYI00000000,Loigolactobacillus rennini,1,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0
+175,RHOU00000000,Lapidilactobacillus wuchangensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+176,JQAZ00000000,Paralactobacillus selangorensis,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+177,RHOT00000000,Lapidilactobacillus gannanensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+178,RHOV00000000,Lapidilactobacillus achengensis,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+179,JQBF00000000,Pediococcus pentosaceus ,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+180,AZDI00000000,Dellaglioa algida,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+181,RHOF00000000,Loigolactobacillus jiayinensis,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0
+182,AZDC00000000,Loigolactobacillus coryniformis subsp. torquens,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0
+183,AZCN00000000,Loigolactobacillus coryniformis subsp. coryniformis,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0
+184,JABEKX000000000,Lacticaseibacillus absianus,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+185,BJDN00000000,Loigolactobacillus binensis ,1,1,0,1,0,1,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0
+186,AYZL00000000,Holzapfelia floricola,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+187,AYZQ00000000,Lacticaseibacillus brantae,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+188,AZGH00000000,Lacticaseibacillus paracasei subsp. paracasei,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0,0
+189,AYYJ00000000,Lacticaseibacillus paracasei subsp. tolerans,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0,0
+190,AZCQ00000000,Lacticaseibacillus rhamnosus,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+191,MSSM00000000,Lacticaseibacillus chiayiensis,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+192,AZCT00000000,Lacticaseibacillus zeae,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+193,BALS00000000,Lacticaseibacillus casei,1,1,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+194,JQCE00000000,Lacticaseibacillus saniviri,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0
+195,RHOY00000000,Agrilactobacillus yilanensis,1,1,0,1,0,1,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0
+196,AZGA00000000,Agrilactobacillus composti,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,0,0,1,1,0,0
+197,JQBG01000000,Carnobacterium maltaromaticum,1,1,0,1,0,0,1,0,0,1,0,1,1,1,0,0,0,1,0,0,0
+198,CP060724,Weissella diestrammenae ,1,1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+199,AEMI00000000,Leuconostoc gelidum subsp. gelidum,1,1,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+200,FN822744,Leuconostoc gelidum subsp. gasicomitatum,1,1,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+201,AEMJ00000000,Leuconostoc inhae ,1,1,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+202,FMAO00000000,Weissella bombi ,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+203,ACKU00000000,Weissella paramesenteroides ,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+204,JQBP00000000,Weissella kandleri,1,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+205,FMAW00000000,Weissella hellenica ,1,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0
+206,HE575133_82.fna.fasta,Weissella thailandensis ,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+207,CP014332,Weissella jogaejeotgali ,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+208,CP037940,Periweissella cryptocerci,1,1,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0
+209,CAKV00000000,Leuconostoc pseudomesenteroides ,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+210,BMBS01000000,Leuconostoc falkenbergensis ,1,1,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+211,AZDS00000000,Fructilactobacillus fructivorans,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+212,QEKT00000000,Convivina intestini ,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+213,QRAS00000000,Weissella soli ,1,1,0,1,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+214,CP001753,Leuconostoc kimchii,1,1,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+215,BJDT00000000,Weissella sagaensis ,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+216,JQCD00000000,Weissella minor,1,1,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+217,AKGG00000000,Weissella koreensis ,1,1,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+218,BAWR00000000,Weissella oryzae ,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+219,SDGZ00000000,Weissella muntiaci ,1,1,1,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+220,ANCA00000000,Weissella ceti ,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+221,JQBM00000000,Weissella viridescens,1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+222,JQAX00000000,Weissella halotolerans,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+223,NZ_JAFBEO000000000.1,Weissella uvarum,1,1,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+224,AYZI00000000,Fructilactobacillus florum,1,1,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+225,JQAY00000000,Weissella confusa,1,1,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+226,AZCP00000000,Levilactobacillus brevis,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
+227,RKLX00000000,Levilactobacillus suantsaiihabitans,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+228,RHOB00000000,Levilactobacillus angrenensis,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+229,RHNW00000000,Levilactobacillus mulengensis,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+230,RHNN00000000,Levilactobacillus cerevisiae,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+231,AZDT00000000,Levilactobacillus namurensis,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
+232,AZCX00000000,Secundilactobacillus kimchicus,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
+233,BCMF00000000,Secundilactobacillus mixtipabuli,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+234,AZEE00000000,Secundilactobacillus odoratitofui,1,0,1,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+235,BBJM00000000,Secundilactobacillus oryzae,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+236,AYZM00000000,Secundilactobacillus similis,1,0,1,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
+237,AYYR00000000,Secundilactobacillus collinoides,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+238,GCA_009864005.1,Furfurilactobacillus milii,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,1,0,0
+239,GCA_000277855.1,Furfurilactobacillus rossiae,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,0,0
+240,AZFF00000000,Furfurilactobacillus rossiae,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,0,0
+241,JAIWJE000000000,Furfurilactobacillus rossiae,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,0,0
+242,GCF_013394005.1,Furfurilactobacillus rossiae,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,0,0
+243,JAIWJH000000000,Furfurilactobacillus milii,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0
+244,JAIWJG000000000,Furfurilactobacillus milii,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0
+245,JAIWJF000000000,Furfurilactobacillus milii,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0
+246,FUA3126,Furfurilactobacillus rossiae,1,0,1,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0
+247,AYZR00000000,Lentilactobacillus senioris,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+248,AZED00000000,Lentilactobacillus otakiensis,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+249,AZFC00000000,Levilactobacillus spicheri,1,0,1,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,0,0,0
+250,AZEA00000000,Lentilactobacillus sunkii,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+251,AZEN00000000,Lentilactobacillus parakefiri,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+252,BJOS01000000,Lentilactobacillus buchneri subsp. silagei,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+253,AZDM00000000,Lentilactobacillus buchneri subsp. buchneri,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+254,AZDF00000000,Lentilactobacillus hilgardii,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+255,AZGK00000000,Lentilactobacillus parabuchneri,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+256,OVSN00000000,Lentilactobacillus raoultii,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+257,AZFY00000000,Lentilactobacillus farraginis,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+258,QCXQ00000000,Levilactobacillus bambusae,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+259,CP018906,Lentilactobacillus curieae,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+260,AYYV00000000,Lentilactobacillus kefiri,1,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+261,AZEB00000000,Lentilactobacillus kisonensis,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0
+262,AZEI00000000,Lentilactobacillus rapi,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,0,1,1,0,0
+263,AYYM00000000,Fructilactobacillus sanfranciscensis,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+264,JQBT00000000,Fructilactobacillus lindneri,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+265,AZEY00000000,Lentilactobacillus diolivorans,1,0,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+266,AZFZ00000000,Lentilactobacillus parafarraginis,1,0,0,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+267,AYYQ00000000,Apilactobacillus ozensis,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+268,AZDW00000000,Levilactobacillus zymae,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+269,AZDV00000000,Levilactobacillus acidifarinae,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+270,AZFS00000000,Levilactobacillus hammesii,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+271,JQAU00000000,Limosilactobacillus fermentum,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,1,0
+272,BCAH00000000,Limosilactobacillus gorillae,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+273,QXIL00000000,Levilactobacillus suantsaii,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+274,RHNZ00000000,Levilactobacillus fuyuanensis,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+275,AZCZ00000000,Levilactobacillus parabrevis,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+276,AZDP00000000,Levilactobacillus koreensis,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+277,JABEQQ00000000,Lentilactobacillus kribbianus,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+278,SULH00000000,Levilactobacillus enshinensis,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+279,BCMJ00000000,Secundilactobacillus silagincola,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+280,BCMI00000000,Secundilactobacillus pentosiphilus,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+281,BCMG00000000,Secundilactobacillus silagei ,1,0,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+282,AZFK00000000,Limosilactobacillus ingluviei,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+283,AZFD00000000,Secundilactobacillus paracollinoides,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+284,AZGJ00000000,Secundilactobacillus malefermentans,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+285,AYZH00000000,Levilactobacillus senmaizukei,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+286,RHOA00000000,Levilactobacillus tangyuanensis,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+287,WNJO00000000,Secundilactobacillus folii,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+288,JQCA00000000,Levilactobacillus paucivorans,1,0,0,1,1,1,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+289,RHNO00000000,Levilactobacillus yonginensis,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+290,RHNY00000000,Levilactobacillus tongjiangensis,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+291,RHOD00000000,Levilactobacillus lindianensis,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,1,0,0
+292,AZFN00000000,Limosilactobacillus gastricus,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+293,RHOC00000000,Levilactobacillus huananensis,1,0,0,1,1,1,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+294,AZGC00000000,Limosilactobacillus equigenerosi,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+295,JQCH00000000,Paucilactobacillus hokkaidonensis,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0
+296,AWTT00000000,Paucilactobacillus wasatchensis,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0
+297,BJEB00000000,Paucilactobacillus nenjiangensis,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+298,BJDM00000000,Paucilactobacillus kaifaensis,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+299,AZFE00000000,Paucilactobacillus oligofermentans,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+300,GCA_009863985.1,Furfurilactobacillus milii,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,1,0,1,1,0,0
+301,JQCB00000000,Furfurilactobacillus siliginis,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+302,GCF_007989765.1,Furfurilactobacillus siliginis,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+303,GCA_001437435.1,Furfurilactobacillus siliginis,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+304,AYYY00000000,Paucilactobacillus vaccinostercus,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+305,AZGF00000000,Paucilactobacillus suebicus,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+306,ASM1414558,Limosilactobacillus agrestis,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+307,AZGE00000000,Limosilactobacillus oris,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0
+308,AZEQ00000000,Limosilactobacillus mucosae,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+309,ASM1414550,Limosilactobacillus fastidiosus,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+310,AZER00000000,Limosilactobacillus frumenti,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+311,AZGO00000000,Limosilactobacillus pontis,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,1
+312,AZGL00000000,Limosilactobacillus vaginalis,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+313,JABUXQ00000000,Limosilactobacillus portuensis,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+314,JQBW00000000,Limosilactobacillus secaliphilus,1,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0
+315,JABUXR00000000,Limosilactobacillus urinaemuleris,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+316,AVAA00000000,Schleiferilactobacillus shenzhenensis,1,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+317,AZEC00000000,Schleiferilactobacillus perolens,1,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+318,AZFW00000000,Schleiferilactobacillus harbinensis,1,0,0,1,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,0
+319,NZ_JAFBDN000000000.1,Periweissella beninensis,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+320,CP000411,Oenococcus oeni ,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,1,1,0
+321,AFVZ00000000,Oenococcus kitaharae ,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+322,W.fabaria_LMG_24289,Periweissella fabaria,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+323,AEGQ00000000,Leuconostoc lactis ,1,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+324,DQ489736,Leuconostoc citreum,1,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+325,JAAXPO000000000,Leuconostoc holzapfelii ,1,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+326,CP015247,Leuconostoc suionicum ,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+327,SDGY00000000,Leuconostoc litchii ,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+328,AEIZ00000000,Leuconostoc fallax ,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+329,JAAXPN000000000,Periweissella fabalis,1,0,0,1,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+330,CP029684,Oenococcus sicerae ,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,1,1,0
+331,ACKV00000000,Leuconostoc mesenteroides subsp. cremoris,1,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+332,CP014611,Leuconostoc jonggajibkimchii ,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,1,0
+333,CP012009,Leuconostoc mesenteroides subsp. dextranicum,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+334,CP003851,Leuconostoc carnosum,1,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+335,W.ghanensis_LMG_24286,Periweissella ghanensis,1,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+336,CP032626,Apilactobacillus bombintestini,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+337,AZCK00000000,Apilactobacillus kunkeei,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+338,JXCT00000000,Apilactobacillus apinorum,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+339,POSN00000000,Apilactobacillus quenuiae,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+340,POST00000000,Apilactobacillus timberlakei,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+341,POSO00000000,Apilactobacillus micheneri,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+342,CP034726,Acetilactobacillus jinshanensis,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+343,RHNX00000000,Levilactobacillus fujinensis,1,0,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+344,JQBH00000000,Fructobacillus fructosus ,1,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+345,BBXT00000000,Fructobacillus tropaeoli ,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+346,BBXQ00000000,Fructobacillus ficulneus ,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+347,AZEW00000000,Limosilactobacillus coleohominis,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+348,FNWS00000000,Fructobacillus  pseudoficulneus ,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+349,FOLI00000000,Fructobacillus durionis ,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+350,AXCV00000000,Oenococcus alcoholitolerans ,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,AEKT01000001,Weissella cibaria ,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+352,AZDG00000000,Companilactobacillus tucceti,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0

@@ -3,8 +3,8 @@
 import pandas as pd
 
 #%%
-input_tally_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative_species_matched_grouped.csv'
-output_fname = 'all_prot_query_screened_header_40ide_40cov_positive_negative_species_matched_grouped_with_proportion.csv'
+input_tally_fname = 'all_prot_query_screened_header_40ide_70cov_positive_negative_species_gene_matched_grouped.csv'
+output_fname = 'all_prot_query_screened_header_40ide_70cov_positive_negative_species_gene_matched_grouped_with_proportion.csv'
 
 input_tally_df = pd.read_csv(input_tally_fname , header=None) # open file with incomplete names
 
