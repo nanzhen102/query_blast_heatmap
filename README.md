@@ -17,6 +17,9 @@ python main.py -i <txt_file_name>
 
  The file includes 337 type strains as well as the latest *Furfurilactobacillus* and *Weissella* strains.
 
+`full_name_type_strain_DB_Sep26_2022.csv`
+ The file includes 337 type strains as well as the Nicola genus.
+
 
 ---
 - [ ] combine bash scripts
