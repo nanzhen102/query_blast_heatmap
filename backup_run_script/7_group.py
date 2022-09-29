@@ -1,6 +1,6 @@
 import pandas as pd
 
-in_df = pd.read_csv('all_prot_query_screened_header_40ide_70cov_positive_negative_species_gene_matched_cal_edited.csv', header = [0], index_col = 0)
+in_df = pd.read_csv('all_prot_query_screened_header_40ide_70cov_positive_negative_species_matched.csv', header = [0], index_col = 0)
 
 r_num, co_num = in_df.shape
 
@@ -14,6 +14,6 @@ for r in range(r_num):
 in_df.insert(0,"genus", genus_col, True)
 in_df_grouped = in_df.groupby("genus")
 
-in_df_grouped.sum().reset_index().to_csv('all_prot_query_screened_header_40ide_70cov_positive_negative_species_gene_matched_cal_edited_grouped.csv')
+in_df_grouped.sum().reset_index().to_csv('all_prot_query_screened_header_40ide_70cov_positive_negative_species_matched_grouped.csv')
 
     
