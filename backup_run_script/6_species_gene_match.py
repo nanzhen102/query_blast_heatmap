@@ -4,8 +4,8 @@ import pandas as pd
 from re import search
 
 input_partial_fname = 'all_prot_query_screened_header_40ide_70cov_positive_negative.csv'
-input_full_fname = '../full_name_Jun21_2022.csv'
-input_gene_df = pd.read_csv("../query_info.csv", header = None, index_col = False) # open query_gene.csv
+input_full_fname = 'full_name_type_strain_DB_Apr24_2023_for_query_blast.csv'
+input_gene_df = pd.read_csv("query_info.csv", header = None, index_col = False) # open query_gene.csv
 
 output_fname = 'all_prot_query_screened_header_40ide_70cov_positive_negative_species_gene_matched.csv'
 
@@ -26,9 +26,9 @@ if pd.isna(input_partial_df.iloc[0,0]) == True: # in pos_neg csv, the first colu
 for par_row in range(part_df_row_num):
     part_target = input_partial_df.iloc[par_row,0] # iterate the output_search_col column
     for ful_row in range(ful_df_row_num):
-        full_target = input_full_df.iloc[ful_row,0] # full name file
+        full_target = input_full_df.iloc[ful_row,1] # full name file
         if search(part_target,full_target): # if two ACC match	
-            input_partial_df.iloc[par_row,1] = input_full_df.iloc[ful_row,1]
+            input_partial_df.iloc[par_row,1] = input_full_df.iloc[ful_row,2]
 
 for par_col in range(3, part_df_col_num + 2): # the first cells are Nan, which causes error; two columns were added by the former command lines, thus the range of columns need to be enlarged (+2)
 	ACC_target = input_partial_df.iloc[0, par_col] # the first row is ACC of genes

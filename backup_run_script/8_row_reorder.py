@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 
+#### didn't work!! Need to be modified to make it work for the csv file.
+
+
 import pandas as pd
 from re import search
 
-in_fname = 'full_name_type_strain_DB_Jun21_2022_grouped.csv' # the csv file that needs to be recordered
+in_fname = 'all_prot_query_screened_header_40ide_70cov_positive_negative_species_matched_grouped.csv' # the csv file that needs to be recordered
 # in_fname = "3.csv"
-in_order_fname = "../y_order_plus_Periweissella.csv" # the csv file that contains the right order
+in_order_fname = "y_order_plus_Periweissella_Nicolia.csv" # the csv file that contains the right order
 out_fname = in_fname.split(".")[0]  + "_ordered.csv" # the output file
 
 in_df = pd.read_csv(in_fname , header=None, index_col = 0) 
