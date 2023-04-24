@@ -12,10 +12,10 @@ library(ggplot2)
 # for large dataset
 # plot1 <- ggplot(melted_cormat, aes(x=variable, y=Genus, fill=value)) + geom_tile() + scale_fill_gradient2(low = "white", high = "#FF0000", space = "Lab", name = "Proportion\nof genes\nin genera") + theme(axis.text.x = element_text(angle = 45, vjust = 1, size = 30, hjust = 1), axis.text.y = element_text(face = "italic", size = 30), legend.text = element_text(size = 30), legend.key.size = unit(2, 'cm'), legend.title = element_text(size = 30)) + coord_fixed()
 
-plot1 <- ggplot(melted_cormat, aes(x=variable, y=Genus, fill=value)) + geom_tile() + scale_fill_gradient2(low = "white", high = "#FF0000", space = "Lab", name = "Proportion\nof genes\nin genera\n") + theme(axis.text.x = element_text(angle = 90, vjust = 1, size = 40, hjust = 1), axis.text.y = element_text(face = "italic", size = 40), legend.text = element_text(size = 40), legend.key.size = unit(2, 'cm'), legend.title = element_text(size = 40)) + coord_fixed()
+plot1 <- ggplot(melted_cormat, aes(x=variable, y=Genus, fill=value)) + geom_tile() + scale_fill_gradient2(low = "white", high = "#FF0000", space = "Lab", name = "Proportion\nof genes\nin genera\n") + theme(axis.text.x = element_text(angle = 90, vjust = 1, size = 50, hjust = 1), axis.text.y = element_text(face = "italic", size = 50), legend.text = element_text(size = 50), legend.key.size = unit(2, 'cm'), legend.title = element_text(size = 50)) + coord_fixed()
 
-plot2 <- plot1 + xlab("Genes") + ylab("Genera") + theme(axis.title.x=element_text(size=40), axis.title.y=element_text(size=40))
+plot2 <- plot1 + xlab("Genes") + ylab("Genera") + theme(axis.title.x=element_text(size=50), axis.title.y=element_text(size=50))
 # plot2
 
-ggsave("dddd3.png", units="in", width=40, height=48, dpi=300)
+ggsave("dddd6.png", units="in", width=40, height=48, dpi=300)
 
