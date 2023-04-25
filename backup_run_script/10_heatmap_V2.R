@@ -1,4 +1,4 @@
-data <- read.csv('/Users/nanzhen/Documents/GitHub/query_blast_heatmap/all_prot_query_screened_header_40ide_70cov_positive_negative_species_matched_grouped_ordered_percentage.csv', header = TRUE)
+data <- read.csv('/Users/nanzhen/Documents/1_phd_2020/5_doctoral_program/0.1_type_strain_tree/9_type_strain_update_again_202303/4_heatmap_for_sourdough_review/2_add_2gene_reorder/all_prot_query_screened_header_40ide_70cov_positive_negative_species_matched_grouped_ordered_percentage.csv', header = TRUE)
 
 data$Genus<-factor(data$Genus, levels=data$Genus[33:1]) # be carefule, if it's Genus or genus in the csv file.
 
