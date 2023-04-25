@@ -17,5 +17,5 @@ plot1 <- ggplot(melted_cormat, aes(x=variable, y=Genus, fill=value)) + geom_tile
 plot2 <- plot1 + xlab("Genes") + ylab("Genera") + theme(axis.title.x=element_text(size=50), axis.title.y=element_text(size=50))
 # plot2
 
-ggsave("dddd6.png", units="in", width=40, height=48, dpi=300)
+ggsave("dddd7.tiff", units="in", width=40, height=48, dpi=300)
 
