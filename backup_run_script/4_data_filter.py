@@ -6,7 +6,7 @@ input_file = pd.DataFrame(pd.read_csv("all_prot_query_screened_header.csv", head
 
 # print(input_file.keys())
 
-mask=((input_file["identity"]>=40) & (input_file["query coverage"]>= 70))
+mask=((input_file["identity"]>=50) & (input_file["query coverage"]>= 70))
 
 input_file=input_file.loc[mask] #还不知道为什么需要加这一句
 
