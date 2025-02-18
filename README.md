@@ -1,6 +1,6 @@
 # Query_Blast: package for query blast and the following analysis 
 
-Written by Nanzhen and Eden.
+Written by Nanzhen Qiao (UofAlberta).
 
 ## Dependency
 - Python3 version >= 3.6.7
@@ -24,12 +24,10 @@ python main.py -i <txt_file_name>
 ---
 - [ ] combine bash scripts
     ```bash
-    # Paul's server
-    # lab2-50 sever
 
     for f in *.fna; do prokka --kingdom Bacteria --force --outdir genomes_prokka_output --prefix ${f%.fna} --locustag ${f%.fna} $f; done # if the annotation is needed
 
-    conda activate nanzhen_blast
+    conda activate blast
     cat *.faa > all_prot.fasta # the database to blast against
     makeblastdb -in all_prot.fasta -out all_prot_database -dbtype prot
     tmux new -s name # depend on the file size, can skip this step
