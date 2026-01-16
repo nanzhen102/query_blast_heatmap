@@ -1,7 +1,7 @@
 import csv
 import pandas as pd
 
-input_text_file = "/Users/nanzhen/Documents/1_phd_2020/5_doctoral_program/0.7_metabolism_taxonomy_202405/9_fig1_7_202412_again/fig7_3rd/query_blast_combined.txt"  # Original input file
+input_text_file = "/Users/nanzhen/Documents/1_phd_2020/5_doctoral_program/0.12_Furfuri_new_species_202505/16_revise_20251103/4_tree_32gen_names/enzyme/query_blast.txt"  # Original input file
 final_csv_file = "all_prot_query_screened_header.csv"  # Final output file
 
 def remove_lines_with_hash_and_convert_to_csv(input_file, output_file, headers):
